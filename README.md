@@ -1,6 +1,6 @@
 # My Online Shopping Store Project
 
-A multipage fake store.
+A multipage fake online store.
 
 ## technologies Used
 - HTML5
